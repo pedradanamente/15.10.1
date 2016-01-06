@@ -1,0 +1,287 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,300italic,400italic,600italic&subset=latin,latin-ext);
+.breadcrumb a {
+  color:#FFF;
+}
+.breadcrumb a:hover {
+  color: #DDD !important;
+  font-weight: 500;
+}
+.breadcrumb .active {
+  color: #DDD !important;
+  font-weight: 500;
+  color:#FFDAAB !important;
+}
+.breadcrumb  {
+  margin-top: -10px;
+  background-color:rgba(0,0,0,0) !important;
+  font-family:"Fira Mono","Open Sans";
+  border-radius:0px;
+}
+
+.submenutitulo{
+  text-shadow: 0px 1px 2px #333;
+  color:#FFF !important;
+  text-transform: uppercase;
+  padding:15px 0px;
+  font-size:12px;
+  text-align:left;
+  letter-spacing: 1px;
+  background-color: rgba(0,0,0,0) !important;
+  font-weight:300;
+  font-family: "Open Sans",sans-serif,"lucida grande","Segoe UI",Arial,;
+}
+.submenutitulo li {
+  margin-left:10px;
+}
+
+.pmo {font-family:"Fira mono","Open Sans","Arial";width:200px;color:#F8E1C3;font-size:12px;text-align:left;cursor:pointer;margin-top:-30px;padding:5px;}
+.pmo:hover {color:gold !important;}
+
+.Tabelinha-Table {
+ border:0px;
+width:100%;
+font-size:12px;
+margin:0px;
+padding:0px;
+}
+.TrZebrada1 { background-color:#3F3F3F;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrZebrada1:hover {  background-color:#904141;}
+.TrZebrada2 { background-color:#3B3B3E;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrZebrada2:hover {  background-color:#904141;}
+.TrInconformidade { background-color:#303033;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrInconformidade:hover {  background-color:#904141;}
+.TrUrgente { background-color:#382830;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrUrgente:hover {  background-color:#904141;}
+.TrSemGarantia1{ background-color:#232320;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrSemGarantia1:hover {  background-color:#904141;}
+.TrSemGarantia2 { background-color:#272723;text-shadow:0px 1px 1px #777;color:#FFF;height:18px; }
+.TrSemGarantia2:hover {  background-color:#904141;}
+
+.Tabelinha-TDD {
+ text-align:center;
+height:18px;
+ }
+.TDD {
+  color:#B9B4B0;background-color:#26251F;background-color:#222;border:1px solid rgba(0,0,0,0.3);letter-spacing:1px;text-transform:uppercase;padding-left:2px;padding-right:2px;border:0px;width:97%;text-align:center;height:16px;font-size:12px;letter-spacing: 2px;
+}
+.TDDX {
+  color:#B9B4B0;
+  background-color:#222;
+  border:1px solid rgba(0,0,0,0.3);
+  letter-spacing:1px;
+  text-transform:uppercase;
+  padding-left:2px;
+  padding-right:2px;
+  border:0px;
+  width:97%;
+  text-align:center;
+  height:16px;
+  font-size:12px;
+  letter-spacing: 2px;
+  background-color: rgba(0,0,0,0.0);
+}
+.none {
+  display:none;
+}
+.A1 {
+  border:0px;font-size:12px;font-family:Arial,Tahoma;width:97%;text-align:center;height:15px;
+}
+.C1 {
+  background-color:#26222C !important;
+}
+.C2 {
+  background-color:#45252B;
+}
+.nenhumencontrado {
+  margin-top:0px;font-size:14px;text-align:left;margin-left:15px;color:#EEE;
+}
+.centrodeavisos {
+  text-align:left;
+}
+.centrodeavisos h1,h2,h3,h4,h5,h6 {
+  color:#F6E3A3;
+  font-size:14px;
+}
+
+textarea {
+ padding:5px;
+ margin:0px;
+ border:0px;
+ color:#DDD;
+ font-size:12px;
+letter-spacing:1px;line-height: 1.5em;
+
+}
+table {
+  border-collapse: collapse !important;
+}
+td {
+  text-align:center;
+  height:18px;
+  padding-left:0px;
+  letter-spacing:1px;
+  font-size:11px;
+  font-weight:300 !important;
+  text-transform: uppercase;
+  border: 1px solid rgba(87, 84, 84, 0.4) !important;
+}
+tr {
+  text-transform: uppercase;
+  font-size:11px;
+  letter-spacing:1px;
+}
+
+th {
+  text-align:center;
+  border: 1px solid rgba(87, 84, 84, 0.4) !important;
+}
+
+.SuperTr {
+ background-color:#2A2A2A;
+height:34px;
+font-family:Arial;
+border:0px;
+padding:0px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color:#F8C18B !important;
+font-size:12px !important;
+ } /* #39B689 */
+
+.SuperTr:hover {
+ background-color:#2A2A2A;color:#F8C18B !important;
+ }
+
+ .designedby {font-size:12px;font-weight:300;text-shadow:1px 1px 10px gray;clear:both;text-align:right;color:rgba(255,255,255,0.2);padding-top:10px; }
+ .designedby a:hover {color:gold;}
+ .designedby a {color:#D2D59D;}
+
+body {	font-family:"Arial","Open Sans","Fira mono" !important; }
+.designedby { font-family:"Arial","Open Sans","Fira mono" !important; }
+.SuperTr { font-family:"Arial","Open Sans","Fira mono" !important; }
+tr { font-family:"Arial","Open Sans","Fira mono" !important; }
+td { font-family:"Arial","Open Sans","Fira mono" !important; }
+textarea { font-family:"Arial","Open Sans","Fira mono" !important; }
+.centrodeavisos h1,h2,h3,h4,h5,h6 {
+ font-family:"Arial","Open Sans","Fira mono" !important;
+}
+h1, h2, h3, h4, h5, h6 { font-family:"Arial","Open Sans","Fira mono" !important; }
+.pmo { font-family:"Arial","Open Sans","Fira mono" !important; }
+.submenutitulo { font-family:"Arial","Open Sans","Fira mono" !important; }
+.breadcrumb { font-family:"Arial","Open Sans","Fira mono" !important; }
+.TDD_TAPOLITICA { font-family:"Arial","Open Sans","Fira mono" !important; }
+.upmenuright {
+    font-family:"Arial","Open Sans","Fira mono" !important; }
+.UMENURT {
+    font-family:"Arial","Open Sans","Fira mono" !important; }
+.relatoriobox {
+    font-family:"Arial","Open Sans","Fira mono" !important;}
+.nav-tabs li {
+    font-family:"Arial","Open Sans","Fira mono" !important;}
+.boxtop-subpage h3 {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.p-bloco {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+ .portfolio-p {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .servicos-p {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .equipe-p {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .equipe-box {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .portfolio-url {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .anotacao {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .formlabeldefeito {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+ .forminputdefeito {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+ }
+.formInputTextArea {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.Label1 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.Label2 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+`.Input1 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+`.Input2 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+`.Input3 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+textarea:disabled {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.politicadegarantiaInfo, .politicadegarantiaInfo:disabled {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.Input4, .Input4:disabled {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.formSelect {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.formSelect option {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.msg-ok {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.upmenuright {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.LiRight1 {
+
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.LiRight2 {
+    font-family:"Arial","Open Sans","Fira mono" !important;
+}
+.tachado{text-decoration:line-through;}
+.usuariosemail {text-transform:lowercase;font-family:'Fira mono','Open Sans','Arial';letter-spacing:1px;font-size:12px;}
+
+.formCheckboxEstoque { margin-top:4px; }
+input {}
+input[type=checkbox] { display: none; }
+input[type=checkbox] + label { display: inline-block; background-color: #DB574D; color: white;  font-size: 12px; font-weight: normal; height: 30px; padding-top:10px; line-height: 20px; position: relative; text-transform: uppercase; width: 475px; }
+input[type=checkbox] + label,input[type=checkbox] + label i { -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -o-transition: all 200ms ease; transition: all 200ms ease; }
+input[type=checkbox]:checked + label { background-color: #67B04F; }
+input[type=checkbox] + label:before,input[type=checkbox] + label:after,input[type=checkbox] + label i { width: 50%; display: inline-block; height: 100%; text-align: center; }
+input[type=checkbox] + label:before { content: attr(data-text-true); }
+input[type=checkbox] + label:after { content: attr(data-text-false); }
+input[type=checkbox] + label i { top: 10%; background-color: white; height: 80%; left: 5%; position: absolute; width: 45%; }
+input[type=checkbox]:checked + label i { left: 50%; }
